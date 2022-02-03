@@ -1,7 +1,7 @@
 # Baer Keyboard
 
-![Jo Baer, Minimalist Artist](/Docs/diptychs.png)
-
+![Diptychs by Jo Baer](/Docs/diptychs.png)
+`Jo Baer, Minimalist Artist`
 ## Quick Start
 ### Where is the spacebar?
 The nearest (first) row key either on the extreme right or the extreme left column serves as the spacebar.
