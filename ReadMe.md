@@ -1,6 +1,6 @@
 # Baer Keyboard
 
-![Jo Baer, Minimalist Artist](color strip diptychs correct.jpg)
+![Jo Baer, Minimalist Artist](/Docs/diptychs.jpg)
 
 ## Quick Start
 ### Where is the spacebar?
